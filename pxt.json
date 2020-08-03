@@ -1,0 +1,19 @@
+{
+    "name": "pxt-calliope-ADS1x15",
+    "version": "0.0.1",
+    "description": "Control ADC Chips ADS1015 and ADS11115",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ADS1x15.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    "supportedTargets": [
+        "microbit",
+        "calliope"
+    ],
+    "preferredEditor": "tsprj"
+}
