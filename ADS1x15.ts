@@ -65,7 +65,7 @@ enum CHANNEL_TYPE {
 /**
  * Benutzerdefinierte Blöcke
  */
-//% weight=100 color=#0fbc11 icon=""
+//% weight=100 color=#0fbc11 icon="\uf012"
 namespace ADS1x15 {
 
 
